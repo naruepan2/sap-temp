@@ -1,0 +1,19 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "I_COMPANYCODE",
+      "I_REFLOWTYPE",
+      "ZI_RTR_OLL_CONTRACTEXCHRATE",
+      "ZI_RTR_OLL_VALUATIONRULECF_2",
+      "ZI_VICECFRULE"
+    ],
+    "ASSOCIATED": [
+      "ZI_REVALUATIONPROCESSSTEP",
+      "ZI_REVALUATIONRULE",
+      "ZI_VICECFRULE"
+    ],
+    "BASE": [
+      "ZI_RTR_OLL_VALUATIONRULECF_2"
+    ]
+  }
+}

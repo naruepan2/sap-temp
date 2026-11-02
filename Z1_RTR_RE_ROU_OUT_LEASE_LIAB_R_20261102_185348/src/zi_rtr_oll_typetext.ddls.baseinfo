@@ -1,0 +1,11 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "DDCDS_CUSTOMER_DOMAIN_VALUE_T"
+    ],
+    "ASSOCIATED": [
+      "I_LANGUAGE",
+      "ZI_RTR_OLL_TYPE"
+    ]
+  }
+}

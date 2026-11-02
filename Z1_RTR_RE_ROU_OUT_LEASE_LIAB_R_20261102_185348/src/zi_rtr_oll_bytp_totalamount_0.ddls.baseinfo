@@ -1,0 +1,17 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_BYTP"
+    ],
+    "ASSOCIATED": [
+      "I_COMPANYCODE",
+      "I_CURRENCY",
+      "I_GLOBALCOMPANY",
+      "ZI_RTR_OLL_TYPE",
+      "ZI_RTR_OLL_TYPEGROUP"
+    ],
+    "BASE": [
+      "ZI_RTR_OLL_BYTP"
+    ]
+  }
+}

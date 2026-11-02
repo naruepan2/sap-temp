@@ -1,0 +1,12 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RECONTRACTDATA",
+      "ZI_REPARTNERASSGMT"
+    ],
+    "ASSOCIATED": [
+      "I_BUSINESSPARTNER",
+      "ZI_BP001"
+    ]
+  }
+}

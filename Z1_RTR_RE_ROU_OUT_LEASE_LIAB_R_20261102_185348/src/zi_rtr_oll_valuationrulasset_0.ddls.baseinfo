@@ -1,0 +1,12 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "I_COMPANYCODE",
+      "I_REFLOWTYPE",
+      "ZI_RECONTRACTDATA",
+      "ZI_REVALUATIONPROCESSSTEP",
+      "ZI_REVALUATIONRULE",
+      "ZI_VICECFRULE"
+    ]
+  }
+}

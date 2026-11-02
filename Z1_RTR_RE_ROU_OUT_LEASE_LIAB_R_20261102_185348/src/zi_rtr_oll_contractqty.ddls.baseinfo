@@ -1,0 +1,10 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_CONTRACTQTY_0"
+    ],
+    "ASSOCIATED": [
+      "ZI_VICNMEASCN"
+    ]
+  }
+}

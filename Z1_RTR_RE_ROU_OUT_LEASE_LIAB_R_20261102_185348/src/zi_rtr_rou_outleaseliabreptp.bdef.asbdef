@@ -1,0 +1,29 @@
+/////////////////////////////////////////////////////////////////////////
+// Project Name: SMILE
+// Created by  : Potsawat M.
+// Created on  : 12.02.2026
+// WRICEF ID   : RTR-RE011
+// TR Number   : GSDK911054
+//-----------------------------------------------------------------------
+// Description : Outstanding Lease Liability and Defer Interest Report
+//-----------------------------------------------------------------------
+// Change History
+//-----------------------------------------------------------------------
+// Date |TR Number |Search Term |Developer |Description
+// -------- ----------- ----------- ----------- -------------------------
+/////////////////////////////////////////////////////////////////////////
+
+managed implementation in class zbp_i_rtr_rou_outleaseliabrep unique;
+strict ( 2 );
+
+define behavior for ZI_RTR_ROU_OutLeaseLiabRepTP alias OutLeaseLiabRep
+with unmanaged save
+lock master
+authorization master ( instance )
+{
+  field ( readonly ) CompanyCode, RealEstateContract, AgreementNumber, Type;
+
+  //  static action GetExcel deep parameter ZD_RTR_ROU_OLL_GetExcelParam result [1] ZD_RTR_FileContent;
+  static action GetExcel parameter ZD_RTR_ROU_OLL_GetExcelParam result [1] ZD_RTR_FileContent;
+
+}

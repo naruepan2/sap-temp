@@ -1,0 +1,11 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_CONTRACTASSET_0"
+    ],
+    "ASSOCIATED": [
+      "I_FIXEDASSET",
+      "I_FIXEDASSETFORLEDGER"
+    ]
+  }
+}

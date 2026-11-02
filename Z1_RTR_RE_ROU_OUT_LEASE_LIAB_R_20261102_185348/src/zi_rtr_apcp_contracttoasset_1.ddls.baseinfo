@@ -1,0 +1,15 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "I_FIXEDASSET",
+      "ZI_RTR_APCP_CONTRACTASSETMAXDT",
+      "ZI_RTR_APCP_CONTRACTTOASSET_0"
+    ],
+    "ASSOCIATED": [
+      "I_COMPANYCODE",
+      "I_FIXEDASSET",
+      "I_FIXEDASSETFORLEDGER",
+      "I_MASTERFIXEDASSET"
+    ]
+  }
+}

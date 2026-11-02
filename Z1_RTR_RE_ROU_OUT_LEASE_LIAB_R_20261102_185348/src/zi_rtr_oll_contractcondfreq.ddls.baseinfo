@@ -1,0 +1,14 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RECONDITION",
+      "ZI_RECONTRACTDATA",
+      "ZI_RTR_CNNOINSTALLMENTMAXCONDT",
+      "ZI_VITMRH"
+    ],
+    "ASSOCIATED": [
+      "ZI_RTR_OLL_INSTALLMENTFREQ",
+      "ZI_RTR_OLL_PAYMENTMETHOD"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_APCP"
+    ],
+    "ASSOCIATED": [
+      "I_COMPANYCODE",
+      "ZI_RTR_OLL_ROUCLASS"
+    ]
+  }
+}

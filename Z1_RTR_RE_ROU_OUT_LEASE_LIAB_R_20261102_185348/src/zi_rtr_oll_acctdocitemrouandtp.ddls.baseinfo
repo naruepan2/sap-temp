@@ -1,0 +1,14 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_ACCTGDOCITEM2CN"
+    ],
+    "ASSOCIATED": [
+      "I_COMPANYCODE",
+      "I_CURRENCY"
+    ],
+    "BASE": [
+      "ZI_RTR_OLL_ACCTGDOCITEM2CN"
+    ]
+  }
+}

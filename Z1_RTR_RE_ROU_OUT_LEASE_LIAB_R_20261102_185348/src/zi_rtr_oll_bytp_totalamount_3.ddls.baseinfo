@@ -1,0 +1,15 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_BYTP_TOTALAMOUNT_2"
+    ],
+    "ASSOCIATED": [
+      "I_COMPANYCODE",
+      "I_CURRENCY",
+      "I_GLOBALCOMPANY"
+    ],
+    "BASE": [
+      "ZI_RTR_OLL_BYTP_TOTALAMOUNT_2"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_VALUATIONRULECF_2"
+    ],
+    "ASSOCIATED": [
+      "ZI_REVALUATIONPROCESSSTEP",
+      "ZI_REVALUATIONRULE"
+    ],
+    "BASE": [
+      "ZI_RTR_OLL_VALUATIONRULECF_2"
+    ]
+  }
+}

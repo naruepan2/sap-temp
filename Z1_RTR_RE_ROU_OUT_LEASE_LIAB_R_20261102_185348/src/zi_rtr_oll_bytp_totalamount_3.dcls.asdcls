@@ -1,0 +1,11 @@
+@EndUserText.label: 'DCL for ZI_RTR_OLL_BYTP_TOTALAMOUNT_3'
+@MappingRole: true
+define role ZI_RTR_OLL_BYTP_TOTALAMOUNT_3 {
+    grant 
+        select
+            on
+                ZI_RTR_OLL_BYTP_TOTALAMOUNT_3
+                    where
+                        ( CompanyCode ) = aspect pfcg_auth ( F_BKPF_BUK, BUKRS, ACTVT = '03' );
+                        
+}

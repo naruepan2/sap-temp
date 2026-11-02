@@ -1,0 +1,13 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "I_FIXEDASSET",
+      "ZI_RTR_OLL_VICERULETOASSET_0"
+    ],
+    "ASSOCIATED": [
+      "I_COMPANYCODE",
+      "I_FIXEDASSET",
+      "I_MASTERFIXEDASSET"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_APCPLAST_0",
+      "ZI_RTR_OLL_APCP_DMAPPOSTED_0"
+    ],
+    "ASSOCIATED": [
+      "ZI_RTR_OLL_APCP"
+    ]
+  }
+}

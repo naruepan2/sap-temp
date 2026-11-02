@@ -1,0 +1,11 @@
+@EndUserText.label: 'ZI_RTR_OLL_ByTP'
+@MappingRole: true
+define role ZI_RTR_OLL_BYTP {
+    grant
+        select
+            on
+                ZI_RTR_OLL_ByTP
+                    where
+                        inheriting conditions from entity ZI_RTR_ROU_OutLeaseLiabRep;
+                        
+}

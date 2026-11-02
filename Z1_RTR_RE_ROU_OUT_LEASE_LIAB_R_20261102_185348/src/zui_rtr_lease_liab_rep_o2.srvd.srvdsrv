@@ -1,0 +1,9 @@
+@EndUserText.label: 'ROU Outstanding Lease Liability and Defer Interest Report'
+@ObjectModel.leadingEntity.name: 'ZC_RTR_ROU_OutLeaseLiabRep'
+define service ZUI_RTR_LEASE_LIAB_REP_O2 {
+  expose ZC_RTR_ROU_OutLeaseLiabRep   as OutLeaseLiabRep;
+  expose ZI_RTR_ROU_OutLeaseLiabRepTP as OutLeaseLiabRepTP;
+  expose ZI_RTR_OLL_ByTP              as OutLeaseLiabRepByTP;
+  expose ZCE_RTR_OLL_ByTP             as OutLeaseLiabRepByTP_2;
+  expose ZC_RTR_ROU_CONTRTACCDOC_BYTP as OutLeaseContractAcctDocRep;
+}

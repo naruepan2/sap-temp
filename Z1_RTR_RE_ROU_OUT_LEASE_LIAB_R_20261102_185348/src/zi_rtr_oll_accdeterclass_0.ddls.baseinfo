@@ -1,0 +1,8 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_EXT_ABAPCONFIGURATION",
+      "ZI_TIVRADETKEY"
+    ]
+  }
+}

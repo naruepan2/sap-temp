@@ -1,0 +1,10 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RECONTRACTDATA",
+      "ZI_VICECFRULE",
+      "ZI_VICEPROCESS",
+      "ZI_VICERULE"
+    ]
+  }
+}

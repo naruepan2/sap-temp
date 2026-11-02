@@ -1,0 +1,8 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_CONTRACTEXCHRATE_0",
+      "ZI_VICECFRULE"
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RECONTRACTDATA",
+      "ZI_REVALUATIONPROCESSSTEP",
+      "ZI_REVALUATIONRULE"
+    ]
+  }
+}

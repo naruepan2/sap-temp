@@ -1,0 +1,19 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_CNINSTALLMENTPERIOD",
+      "ZI_RTR_OLL_CPLT_0"
+    ],
+    "ASSOCIATED": [
+      "I_CHARTOFACCOUNTS",
+      "I_COMPANYCODE",
+      "I_CURRENCY",
+      "I_FISCALYEARFORCOMPANYCODE",
+      "I_GLACCOUNTINCHARTOFACCOUNTS",
+      "I_JOURNALENTRY"
+    ],
+    "BASE": [
+      "ZI_RTR_OLL_CPLT_0"
+    ]
+  }
+}

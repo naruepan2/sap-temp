@@ -1,0 +1,11 @@
+@EndUserText.label: 'DCL for ZC_RTR_ROU_CONTRTACCDOC_BYTP'
+@MappingRole: true
+define role ZC_RTR_ROU_CONTRTACCDOC_BYTP {
+    grant
+        select
+            on
+                ZC_RTR_ROU_CONTRTACCDOC_BYTP
+                    where
+                        inheriting conditions from entity ZI_RTR_OLL_BYTP_TOTALAMOUNT_3;
+                        
+}

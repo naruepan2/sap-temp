@@ -1,0 +1,10 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_APCP_1"
+    ],
+    "ASSOCIATED": [
+      "ZI_RTR_OLL_ROUCLASS"
+    ]
+  }
+}

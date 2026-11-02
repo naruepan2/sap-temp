@@ -1,0 +1,13 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_RE_ROU_LCA_GLACCITCN_2"
+    ],
+    "ASSOCIATED": [
+      "ZI_RECONTRACTDATA"
+    ],
+    "BASE": [
+      "ZI_RTR_RE_ROU_LCA_GLACCITCN_2"
+    ]
+  }
+}

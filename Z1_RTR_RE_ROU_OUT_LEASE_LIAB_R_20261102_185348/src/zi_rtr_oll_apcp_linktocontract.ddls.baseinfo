@@ -1,0 +1,10 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_APCP_CONTRACTTOAPCP",
+      "ZI_RTR_OLL_AGREEMENT",
+      "ZI_RTR_OLL_CONTRACTGENERAL",
+      "ZI_RTR_OLL_COUNTAGREEMENT"
+    ]
+  }
+}

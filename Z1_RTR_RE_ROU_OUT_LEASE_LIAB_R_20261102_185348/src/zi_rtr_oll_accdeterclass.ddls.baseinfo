@@ -1,0 +1,10 @@
+{
+  "BASEINFO": {
+    "FROM": [
+      "ZI_RTR_OLL_ACCDETERCLASS_0"
+    ],
+    "ASSOCIATED": [
+      "ZI_RTR_OLL_ROUCLASS"
+    ]
+  }
+}
