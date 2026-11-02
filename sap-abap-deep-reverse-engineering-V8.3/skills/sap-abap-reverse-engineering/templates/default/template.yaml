@@ -1,0 +1,15 @@
+project_id: DEFAULT
+template_id: SAP_ABAP_REVERSE_ENGINEERING_FS
+version: "8.3"
+aliases:
+  - default
+  - generic
+  - standard
+  - reverse engineering default
+template_file: functional-specification-template.md
+required_sections:
+  - Document Control
+  - Executive Summary
+  - General Information
+  - Program Overview
+  - Detailed Program Logic
